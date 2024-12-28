@@ -48,5 +48,6 @@
 - `B` - Повернутися до вибору кількості кубиків
 - `START` - Вихід з гри
 
-Розроблено для платформи консолі [lilka.dev](https://lilka.dev/) 
+
+Розроблено для [lilka.dev](https://lilka.dev/) 
 https://github.com/and3rson/lilka
